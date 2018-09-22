@@ -1,4 +1,4 @@
-# Software Engineering for Game Development
+# Software Engineering for Game Development using p5js
 
 ## Paper prototype
 
