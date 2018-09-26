@@ -1,5 +1,4 @@
 # Software Engineering for Game Development using p5js
-Building a system based on software that satisfies people’s needs.
 Building video games that challenge players
 1. Design
 2. Planning
