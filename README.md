@@ -9,10 +9,10 @@ Building video games that challenge players
 
 # Reading No.1
 [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Game-Design-Practice-Wordware-Developers/dp/1556229127/ref=sr_1_1?ie=UTF8&qid=1537923841&sr=8-1&keywords=game+design+theory+and+practice)
-What Is Gameplay?
-What Is Game Design?
-Who Is a Game Designer?
-Chapter 1: What players want
+1. What Is Gameplay?
+2. What Is Game Design?
+3. Who Is a Game Designer?
+4. Chapter 1: What players want
 
 ## Paper prototype
 
