@@ -1,4 +1,17 @@
 # Software Engineering for Game Development using p5js
+Building a system based on software that satisfies people’s needs.
+Building video games that challenge players
+1. Design
+2. Planning
+3. Iterative Development
+4. Iterative Testing
+5. Release
+
+# Reading No.1
+What Is Gameplay?
+What Is Game Design?
+Who Is a Game Designer?
+Chapter 1: What players want
 
 ## Paper prototype
 
