@@ -14,6 +14,10 @@ Book: [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Ga
 4. Chapter 1: What players want
 
 ## Paper prototype
+30 aniversario de Super Mario Bros. - Entrevista especial
+https://www.youtube.com/watch?v=Sw-jPWmcGCM
+Super Mario Bros. 30th Anniversary Special Interview
+https://www.youtube.com/watch?v=DLoRd6_a1CI
 
 ## Flow Diagram
 
@@ -24,6 +28,11 @@ Book: [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Ga
 ## Agile Game Development
 
 ## Gantt Diagram 
+
+## Roles
+1. Game Designer
+How the inventor of Mario designs a game
+https://www.youtube.com/watch?v=K-NBcP0YUQI
 
 ## Kanban Board
 
