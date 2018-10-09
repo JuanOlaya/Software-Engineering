@@ -1,4 +1,4 @@
-# Software Engineering for Game Development using p5js
+# Software Engineering for Game Development using p5.js
 Building video games that challenge players
 1. Design
 2. Planning
