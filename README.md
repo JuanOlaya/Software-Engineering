@@ -46,8 +46,9 @@ List of Famous Game Designers
 https://www.ranker.com/list/notable-game-designer_s)/reference
 
 ## Kanban Board
+Template
 
-## Game Design Document
+## Game Design Document (GDD)
 
 
 ## Bibliography
