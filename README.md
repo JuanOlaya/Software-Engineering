@@ -6,6 +6,7 @@ Building video games that challenge players
 4. Iterative Testing
 5. Release
 
+## Game Design
 ##### Reading No.1
 Book: [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Game-Design-Practice-Wordware-Developers/dp/1556229127/ref=sr_1_1?ie=UTF8&qid=1537923841&sr=8-1&keywords=game+design+theory+and+practice)
 1. Introduction
@@ -17,6 +18,7 @@ Book: [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Ga
 Book: [Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Game-Design-Practice-Wordware-Developers/dp/1556229127/ref=sr_1_1?ie=UTF8&qid=1537923841&sr=8-1&keywords=game+design+theory+and+practice)
 1. Chapter 1: What players want
 
+## Game Development
 ##### Reading No.3
 Paper: [Software Engineering Challenges in Game Development](https://ieeexplore.ieee.org/abstract/document/5070627)
 
