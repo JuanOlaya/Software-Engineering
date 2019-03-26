@@ -56,4 +56,7 @@ Template
 
 [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.es/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
 
+## Computer-Supported Cooperative Work (CSCW)
+[Discord](https://discordapp.com/)
+
 
