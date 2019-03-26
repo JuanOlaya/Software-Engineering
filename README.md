@@ -1,4 +1,4 @@
-# Software Engineering for Game Development using p5.js (work in progress)
+# Software Engineering for Game Development using p5.js (WORK IN PROGRESS)
 Building video games that challenge players
 1. Design
 2. Planning
