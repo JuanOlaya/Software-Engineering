@@ -57,8 +57,8 @@ Template
 - [TeamGantt]
 - [Trello]
 - [Github]
-- [Google Calendar]
-- [Google Drive] 
+- [Calendar]
+- [Drive] 
 - [Discord](https://discordapp.com/)
 
 
