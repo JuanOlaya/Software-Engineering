@@ -53,12 +53,14 @@ Template
 ## Game Design Document (GDD)
 
 
-## Computer-Supported Cooperative Work (CSCW)
-- [TeamGantt]
-- [Trello]
-- [Github]
-- [Calendar]
-- [Drive] 
+## Computer-Supported Cooperative Work (CSCW) Online
+- [Slack](https://slack.com)
+- [Mural](https://mural.co/)
+- [TeamGantt](https://www.teamgantt.com/)
+- [Trello](https://trello.com/)
+- [Github](https://github.com/)
+- [Calendar](https://calendar.google.com/)
+- [Drive](https://drive.google.com/)
 - [Discord](https://discordapp.com/)
 
 
