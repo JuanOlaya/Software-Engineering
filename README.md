@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=DLoRd6_a1CI
 
 ## Class Diagram
 
-## Agile Game Development
+## Agile Game Development (Scrum)
 
 ## Gantt Diagram 
 
