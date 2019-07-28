@@ -68,7 +68,7 @@ Template
 - [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1537397787&sr=8-1&keywords=game+development+scrum)
 - [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.es/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
 
-Cansu, S. K., & Cansu, F. K. (2019). [An Overview of Computational Thinking](http://ijcses.org/index.php/ijcses/article/view/53/55). International Journal of Computer Science Education in Schools, 3(1), n1.
+- Cansu, S. K., & Cansu, F. K. (2019). [An Overview of Computational Thinking](http://ijcses.org/index.php/ijcses/article/view/53/55). International Journal of Computer Science Education in Schools, 3(1), n1.
 
 ## Game Design Books
 - [Rules of Play: Game Design Fundamentals](https://mitpress.mit.edu/books/rules-play)
